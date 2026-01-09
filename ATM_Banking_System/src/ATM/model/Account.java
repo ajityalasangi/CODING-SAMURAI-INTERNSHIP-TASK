@@ -29,7 +29,7 @@ public class Account {
 		return pin;
 	}
 	
-	public void setBalance() {
+	public void setBalance(double balance) {
 		this.balance = balance;
 	}
 }
