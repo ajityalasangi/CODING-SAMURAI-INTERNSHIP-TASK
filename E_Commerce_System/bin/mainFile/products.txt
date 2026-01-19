@@ -1,0 +1,6 @@
+1,Mouse,499,20
+2,Keyboard,899,15
+3,Headphones,1499,10
+4,Laptop Stand,799,12
+5,USB Cable,199,30
+6,Power Bank,1299,8
